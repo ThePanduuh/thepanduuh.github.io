@@ -2,7 +2,7 @@
 layout: post
 title: What's your title
 hide_title: true
-feature-img: assets/img/pexels/story.jpeg
+feature-img: assets/img/pexels/DSC02575-1.jpg
 author: mhagnumdw
 tags: [Test, Lorem]
 ---
