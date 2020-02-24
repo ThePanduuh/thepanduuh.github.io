@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Feature images
-feature-img: "assets/img/pexels/LinW_1.jpeg"
+feature-img: "assets/img/pexels/LinW_1.jpg"
 thumbnail: "assets/img/thumbnails/LinW_1.jpg"
 image: "assets/img/thumbnails/LinW_1.jpg" #seo tag
 tags: [Test, Lorem]
